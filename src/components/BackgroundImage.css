@@ -1,0 +1,139 @@
+.main{
+    position: relative;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+.imag{
+    max-width: 100%;
+    height: auto;
+
+    /* height: 1726;
+    width: 1007; */
+}
+
+.email-word{
+    align-items: left;
+}
+
+.welcomeLine{
+    color: #636364;
+}
+
+.remember-and-forgot {
+    display: flex;
+    align-items: center;
+}
+
+.checkbox{
+    width: 20px; /* Adjust the width as needed */
+    height: 20px;
+}
+
+
+.forgot{
+    margin-left: 30px;
+    background-color: #F8F8F8;
+    outline: none;
+}
+/* Remember & Forgot
+
+position: absolute;
+width: 308.8px;
+height: 18.59px;
+left: 725px;
+top: 695px;
+
+
+
+/* Forgot password */
+
+/* position: absolute;
+width: 110.51px;
+height: 18.59px;
+left: 923.3px;
+top: 695px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 18px;
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #181818;
+
+ */
+
+/* Remember me */
+
+/* position: absolute;
+width: 98.11px;
+height: 18.59px;
+left: 745.66px;
+top: 695px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 18px;
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #181818; */
+
+.Opening{
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    margin-top: 10px;
+    transform: translate(-50%, -50%);
+    font-family: 'Poppins', sans-serif;
+    /* font-weight: 600; */
+    font-size: xxx-large;
+    color: #ca0000;
+}
+
+.cover{
+    background-color: #F8F8F8;
+    width: 535px;
+    height: 650px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+.submit {
+    margin: 5px;
+    width: 314px;
+    height: 41px;
+    background-color: #EA454C;
+    border-radius: 14px;
+    color: white;
+    /* outline-color: #EA454C; */
+    outline: none;
+}
+
+input{
+    margin: 5px;
+    width: 314px;
+    height: 41px;
+    border-radius: 14px;
+    outline: none;
+}
+
+.welcomeBack{
+    font-size: 34px;
+    font-weight: 549;
+}
