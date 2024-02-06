@@ -1,0 +1,3 @@
+Here we cluster users based on their spending habits and behaviour.
+We used matplotlib, seaborn, sklearn and other libraries. 
+We used K-Means Clustering technique
